@@ -13,7 +13,7 @@ You have been provided with raw data, so you’ll first need to process it to fi
 
 **Part 2: Apply Dimensionality Reduction**
 
-* Performed dimensionality reduction with PCA.The number of featured reduced to 10 as the n_components was set to 0.90.
+* Performed dimensionality reduction with PCA.The number of featured reduced to 10 from 14 as the n_components was set to 0.90.
 
 ![PCa](https://user-images.githubusercontent.com/112193116/218556510-73023fdd-aee6-4254-9369-d29284335e9e.png)
 
